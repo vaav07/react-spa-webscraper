@@ -1,0 +1,7 @@
+node_modules
+.env
+uniqueArray.js
+companyLinks.js
+index.html
+hrefs.txt
+limitedArray.js
